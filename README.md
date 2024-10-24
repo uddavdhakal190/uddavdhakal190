@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uddhav
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...c sharp
+- 🌱 I’m currently studying IT engineering.
 - 💞️ I’m looking to collaborate on ...programming projects
 - 📫 How to reach me ...uddavdhakal190@gmail.com
 
