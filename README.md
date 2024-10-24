@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uddavdhakal190
+- 👋 Hi, I’m Uddhav
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...c sharp
 - 💞️ I’m looking to collaborate on ...programming projects
